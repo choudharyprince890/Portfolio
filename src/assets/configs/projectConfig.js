@@ -12,8 +12,8 @@ import React from 'react'
 
 const projectConfig = [
     {
-        id: "project-5",
-        title: "T-20 Cricket Score Prediction",
+        id: "project-1",
+        title: "AI-Powered Project Food Hub",
         links: [
             {
                 name: "repo",
@@ -38,7 +38,7 @@ const projectConfig = [
             }
         ],
         // image: sklearnGenetic,
-        image: "https://sportsmintmedia.com/wp-content/uploads/2021/10/Tickets-to-go-on-sale-for-ICC-T20-World-Cup.jpg",
+        image: "https://github.com/choudharyprince890/Food-Hub/blob/main/uploads/ezgif.com-crop.gif",
         description: "scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms.",
         target: "_blank"
     },
