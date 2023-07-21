@@ -26,11 +26,11 @@ const projectConfig = [
                 url: "https://github.com/choudharyprince890/Food-Hub/fork",
                 icon: <BiGitRepoForked/>,
             },
-            /*{
+            {
                 name: "subscription",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/subscription",
+                url: "https://youtu.be/inn7iNcB7U4",
                 icon: <AiFillEye/>,
-            },*/
+            },
             {
                 name: "docs",
                 url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction/blob/main/README.md",
@@ -38,8 +38,8 @@ const projectConfig = [
             }
         ],
         // image: sklearnGenetic,
-        image: "https://github.com/choudharyprince890/Food-Hub/blob/main/uploads/ezgif.com-crop.gif",
-        description: "scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms.",
+        image: "https://raw.githubusercontent.com/choudharyprince890/Food-Hub/main/uploads/ezgif.com-crop.gif",
+        description: "Food Hub is an innovative project that leverages cutting-edge machine learning, deep learning and transformer techniques to provide a comprehensive food-related experience to users.",
         target: "_blank"
     },
     
@@ -57,11 +57,6 @@ const projectConfig = [
                 name: "fork",
                 url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
                 icon: <BiGitRepoForked/>,
-            },
-            {
-                name: "subscription",
-                url: "https://youtu.be/inn7iNcB7U4",
-                icon: <AiFillEye/>,
             },
             {
                 name: "docs",
