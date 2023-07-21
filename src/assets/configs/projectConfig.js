@@ -18,12 +18,12 @@ const projectConfig = [
             {
                 name: "repo",
                 /*url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",*/
-                url: "https://sportsmintmedia.com/wp-content/uploads/2021/10/Tickets-to-go-on-sale-for-ICC-T20-World-Cup.jpg",
+                url: "https://github.com/choudharyprince890/Food-Hub",
                 icon: <AiFillGithub/>,
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
+                url: "https://github.com/choudharyprince890/Food-Hub/fork",
                 icon: <BiGitRepoForked/>,
             },
             /*{
@@ -34,6 +34,38 @@ const projectConfig = [
             {
                 name: "docs",
                 url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction/blob/main/README.md",
+                icon: <ImBook/>,
+            }
+        ],
+        // image: sklearnGenetic,
+        image: "https://sportsmintmedia.com/wp-content/uploads/2021/10/Tickets-to-go-on-sale-for-ICC-T20-World-Cup.jpg",
+        description: "scikit-learn models hyperparameters tuning and feature selection, using evolutionary algorithms.",
+        target: "_blank"
+    },
+    
+    {
+        id: "project-5",
+        title: "T-20 Cricket Score Prediction",
+        links: [
+            {
+                name: "repo",
+                /*url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",*/
+                url: "https://github.com/choudharyprince890/Food-Hub",
+                icon: <AiFillGithub/>,
+            },
+            {
+                name: "fork",
+                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
+                icon: <BiGitRepoForked/>,
+            },
+            {
+                name: "subscription",
+                url: "https://youtu.be/inn7iNcB7U4",
+                icon: <AiFillEye/>,
+            },
+            {
+                name: "docs",
+                url: "https://github.com/choudharyprince890/Food-Hub#readme",
                 icon: <ImBook/>,
             }
         ],
