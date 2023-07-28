@@ -13,6 +13,36 @@ import React from 'react'
 const projectConfig = [
     {
         id: "project-1",
+        title: "Shopping Hub",
+        links: [
+            {
+                name: "repo",
+                url: "https://github.com/choudharyprince890/Shopping-Hub",
+                icon: <AiFillGithub/>,
+            },
+            {
+                name: "fork",
+                url: "https://github.com/choudharyprince890/Shopping-Hub/fork",
+                icon: <BiGitRepoForked/>,
+            },
+            {
+                name: "subscription",
+                url: "https://youtu.be/TcPWod_mKJY",
+                icon: <AiFillEye/>,
+            },
+            {
+                name: "docs",
+                url: "https://github.com/choudharyprince890/Shopping-Hub#readme",
+                icon: <ImBook/>,
+            }
+        ],
+        // image: sklearnGenetic,
+        image: "https://raw.githubusercontent.com/choudharyprince890/Shopping-Hub/main/shopping_hub/uploads/gif%20for%20git.gif",
+        description: "Shopping Hub, an advanced and innovative ecommerce platform, With technologies like Machine learning, Deep learning, Generative AI and computer vision.",
+        target: "_blank"
+    },
+    {
+        id: "project-2",
         title: "AI-Powered Project Food Hub",
         links: [
             {
@@ -33,7 +63,7 @@ const projectConfig = [
             },
             {
                 name: "docs",
-                url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction/blob/main/README.md",
+                url: "https://github.com/choudharyprince890/Food-Hub#readme",
                 icon: <ImBook/>,
             }
         ],
@@ -44,23 +74,23 @@ const projectConfig = [
     },
     
     {
-        id: "project-5",
+        id: "project-3",
         title: "T-20 Cricket Score Prediction",
         links: [
             {
                 name: "repo",
                 /*url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",*/
-                url: "https://github.com/choudharyprince890/Food-Hub",
+                url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction",
                 icon: <AiFillGithub/>,
             },
             {
                 name: "fork",
-                url: "https://github.com/rodrigo-arenas/Sklearn-genetic-opt/fork",
+                url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction/fork",
                 icon: <BiGitRepoForked/>,
             },
             {
                 name: "docs",
-                url: "https://github.com/choudharyprince890/Food-Hub#readme",
+                url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction#readme",
                 icon: <ImBook/>,
             }
         ],
@@ -81,7 +111,7 @@ const projectConfig = [
             },
             {
                 name: "fork",
-                url: "https://github.com/choudharyprince890/T20-Cricket-Score-Prediction/forks",
+                url: "https://github.com/choudharyprince890/Whatsapp-Chat-and-Sentiment-Analysis/forks",
                 icon: <BiGitRepoForked/>,
             },
             {
@@ -101,7 +131,7 @@ const projectConfig = [
         target: "_blank"
     },
     {
-        id: "project-3",
+        id: "project-5",
         title: "Stroke Predition with Machine Learning",
         links: [
             {
@@ -111,7 +141,7 @@ const projectConfig = [
             },
             {
                 name: "fork",
-                url: "https://github.com/choudharyprince890/Whatsapp-Chat-and-Sentiment-Analysis/forks",
+                url: "https://github.com/choudharyprince890/Stroke-Prediction-with-ML/forks",
                 icon: <BiGitRepoForked/>
             },
            /* {
@@ -121,12 +151,37 @@ const projectConfig = [
             },*/
             {
                 name: "docs",
-                url: "https://github.com/choudharyprince890/Stroke-Prediction-with-ML/blob/main/README.md",
+                url: "https://github.com/choudharyprince890/Stroke-Prediction-with-ML#readme",
                 icon: <ImBook/>,
             }
         ],
         // image: kafkaMl,
         image: "https://raw.githubusercontent.com/choudharyprince890/Stroke-Prediction-with-ML/main/screenshots/ss1.png",
+        description: "This project is build with flask and bootstrap framework powered by machine learning model trained on Random Forrest Algoritham with the 95.6% accuracy.",
+        target: "_blank"
+    },
+    {
+        id: "project-6",
+        title: "Thug Life Filter",
+        links: [
+            {
+                name: "repo",
+                url: "https://github.com/choudharyprince890/Thug-Life-Filter",
+                icon: <AiFillGithub/>
+            },
+            {
+                name: "fork",
+                url: "https://github.com/choudharyprince890/Thug-Life-Filter/forks",
+                icon: <BiGitRepoForked/>
+            },
+           {
+                name: "subscription",
+                url: "https://choudharyprince890.github.io/Thug-Life-Filter/",
+                icon: <AiFillEye/>
+            },
+        ],
+        // image: kafkaMl,
+        image: "https://github.com/choudharyprince890/Thug-Life-Filter/blob/main/images/ezgif.com-crop.gif",
         description: "This project is build with flask and bootstrap framework powered by machine learning model trained on Random Forrest Algoritham with the 95.6% accuracy.",
         target: "_blank"
     },

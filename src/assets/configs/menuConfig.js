@@ -44,7 +44,7 @@ const menuConfig = {
         {
             id: "menu-3",
             title: "Resume",
-            path: "/skills",
+            path: "./resume.pdf",
             icon: <GrResume size={35}/>,
             className: "nav-text"
         }
